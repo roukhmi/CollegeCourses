@@ -8,5 +8,7 @@
 </head>
 <body>
     <h1>test one</h1>
+    <a href="login.jsp">login page</a>
+    <a href="Home.jsp">home page</a>
 </body>
 </html>
